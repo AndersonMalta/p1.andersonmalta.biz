@@ -1,0 +1,50 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="UTF-8">
+<META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+<meta name="author" content="Anderson Malta" />
+<link href="p1.css" rel="stylesheet" type="text/css"/>
+<link rel="icon" type="image/png" href="favicon-30.ico"/>
+    
+<title>| Project One</title>
+</head>
+
+<body>
+<!--
+----------------------------------------------------------------
+  T O P     N A V I G A T I O N   &    T I T L E
+----------------------------------------------------------------
+-->
+	<div id="header">
+
+	<ul>
+    <li><a href="index.html" shape="rect">| about me</a></li>
+    <li><a href="https://www.facebook.com/anderson.madhava" shape="rect">| facebook</a></li>
+    <li><a href="https://twitter.com/GovindaMadhava" shape="rect">| twitter</a></li>
+    <li><a href="mailto:anderson.malta@sky.com?Subject=Hello%20Anderson">| Email</a></li>
+    </ul>
+    </div>
+    
+<!--End of Header-->
+
+	<h2>| Anderson Malta</h2>
+    
+    <p></p>
+   
+    <div id="main">
+    <p><img src="AndersonMalta_inPortugal.png" title="Anderson Malta" /> Hi, I am Anderson, aka Govinda.
+    	My name is Anderson Malta, but friends and family call me Govinda, feel free to call me Govinda too.
+   		I am originally from Rio, currently living in London, cycling in the rain, having lots of ideas, currently 
+        working on a short-film ( comedy ), very curious about new technologies, always eating chia and quinoa, learning to saying "NO" to wacky people who have the tendency of writing very long
+     	or very short emails, cracking my knuckles and hitting my head against my desk when my ideas are not flowing. 
+    I develop my artistic work under the mantra that I really love what I do and I do it with hard work,
+     focus and usually bent over backwards.</p><br />
+    <p>Totally in love with this now-centric and sharing moment we currently live in, 
+    	I believe in open source, open ideas and good work.</p><br />
+    <p>Oh, and before I forget, the text editor I use the most is Dreamweaver, I am trying to get used to Sublime
+    and sometimes I use TextWrangler too.</p><br />
+    <p>Thanks a lot for stopping by!</p></div>
+    
+</body>
+</html>
